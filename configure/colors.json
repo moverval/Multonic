@@ -1,0 +1,27 @@
+{
+  "Blue": {
+    "Light": "#3D8F92",
+    "Default": "#3D6A92",
+    "Dark": "#3D5892"
+  },
+  "Red": {
+    "Light": "#CA5358",
+    "Default": "#C6393F",
+    "Dark": "#923D47"
+  },
+  "Green": {
+    "Light": "#12d232",
+    "Default": "#138f27",
+    "Dark": "#175c22"
+  },
+  "Yellow": {
+    "Light": "#e5de12",
+    "Default": "#bfb920",
+    "Dark": "#7b7716"
+  },
+  "Purple": {
+    "Light": "#e166da",
+    "Default": "#d01ac5",
+    "Dark": "#6b1766"
+  }
+}

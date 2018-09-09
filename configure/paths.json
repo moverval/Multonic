@@ -1,0 +1,23 @@
+{
+  "Directories": {
+    "ConfigDir": "%Directories~CurrentDir%/configure",
+    "CurrentDir": ".",
+    "CommandDir": "%Directories~CurrentDir%/Plugins",
+    "DataDir": "%Directories~CurrentDir%/data",
+    "GuildDataDir": "%Directories~DataDir%/guilds",
+    "ServerDataDir": "%Directories~DataDir%/servers",
+    "ServerDataCommandDir": "%Directories~ServerDataDir%/settings"
+  },
+  "Files": {
+    "Json": {
+      "THIS": "%Directories~ConfigDir%/paths.json",
+      "MainConfig": "%Directories~CurrentDir%/config.json",
+      "ColorConfig": "%Directories~ConfigDir%/colors.json",
+      "Arguments": "%Directories~ConfigDir%/arguments.json",
+      "NetInfo": "%Directories~ConfigDir%/netinfo.json"
+    },
+    "Js": {
+      "Index": "%Directories~CurrentDir%/server.js"
+    }
+  }
+}
